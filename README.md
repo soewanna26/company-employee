@@ -12,7 +12,7 @@ Role-Based Access Control (RBAC) is integrated with Spatie Role & Permission, en
 2. User Seeder:
 
 A UserSeeder has been added to seed the database with an initial SuperAdmin user for testing and setup purposes.
-Email: admin@admin.com
+Email: superadmin@gmail.com
 Password: password
 Role: SuperAdmin
 
